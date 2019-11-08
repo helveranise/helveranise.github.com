@@ -1,7 +1,10 @@
 #header{
     widht: 100%;
-    height: 150px;
-    background-color:rgb(148, 9, 86)
-    border: 5px solid palevioletred;
-    font-family
+    height: 100px;
+    background:salmon;
+    align-content: center;
+    text-align: center;
+}
+.img {
+    align-content: center;
 }
